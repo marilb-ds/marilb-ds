@@ -81,6 +81,15 @@ Me chamo Marina Lima Braga, tenho 24 anos e sou natural do Ceará. Concluí o en
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />   
 
+<img 
+    align="left" 
+    alt="Databricks" 
+    title="Databricks"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" 
+/>
+
 <br/>
 <br/>
 
