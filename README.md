@@ -4,6 +4,23 @@
 
 Me chamo Marina Lima Braga, tenho 24 anos e sou natural do Ceará. Concluí o ensino superior na Universidade Federal do Ceará, com bacharelado em Engenharia Civil. Atualmente, estou cursando mestrado em ciência de dados na Universidade de Pádua. Sou apaixonada por tecnologia e me reinventar, adoro um novo desafio e compartilhar com meus colegas sobre meus ocnhecimentos.
 
+<p align="left">
+    <a href="https://github.com/marilb-ds?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
 </p>
 
 ---
