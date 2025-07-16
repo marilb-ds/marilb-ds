@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Marina Braga
 
-**`Cientista de Dados`**
+**`Data Scientist`**
 
-Me chamo Marina Lima Braga, tenho 24 anos e sou natural do Ceará. Concluí o ensino superior na Universidade Federal do Ceará, com bacharelado em Engenharia Civil. Atualmente, estou cursando mestrado em ciência de dados na Universidade de Pádua. Sou apaixonada por tecnologia e me reinventar, adoro um novo desafio e compartilhar com meus colegas sobre meus ocnhecimentos.
+My name is Marina Lima Braga, I am 24 years old and I am from Ceará, Brazil. I completed my undergraduate studies at the Federal University of Ceará, graduating with a bachelor’s degree in Civil Engineering. I am currently pursuing a master’s degree in Data Science at the University of Padua. I am passionate about technology and reinventing myself, I love new challenges, and I enjoy sharing my knowledge with my colleagues.
 
 <p align="left">
     <a href="https://github.com/marilb-ds?tab=repositories&sort=stargazers">
