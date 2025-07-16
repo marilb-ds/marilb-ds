@@ -25,7 +25,7 @@ My name is Marina Lima Braga, I am 24 years old and I am from Ceará, Brazil. I 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technology
 
 <img 
     align="left" 
