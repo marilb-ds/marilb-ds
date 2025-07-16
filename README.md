@@ -2,20 +2,20 @@
 
 **`Data Scientist`**
 
-My name is Marina Lima Braga, I am 24 years old and I am from Ceará, Brazil. I completed my undergraduate studies at the Federal University of Ceará, graduating with a bachelor’s degree in Civil Engineering. I am currently pursuing a master’s degree in Data Science at the University of Padua. I am passionate about technology and reinventing myself, I love new challenges, and I enjoy sharing my knowledge with my colleagues.
+My name is Marina Lima Braga, I am 24 years old and I am from Ceará, Brazil. I completed my undergraduate studies at the Federal University of Ceará, graduating with a bachelor’s degree in Civil Engineering. I am currently pursuing a master’s degree in Data Science at the University of Padua. I am passionate about technology and reinventing myself, I love new challenges, and I enjoy sharing my knowledge with the world.
 
 <p align="left">
     <a href="https://github.com/marilb-ds?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total of Stars" 
+            title="Total of Github Stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/marilb-ds?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/marilb-ds?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/marilb-ds?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
